@@ -36,10 +36,5 @@ I’m a **Fullstack Developer** actively looking for an opportunity to start my 
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 
 ---
-## 🚀 What I'm currently working on 
-- I’m **polishing my Pixelify project** by adding Sequelize, deploying it, and implementing new functionalities.
-- I’m also **working on my portfolio** to showcase my skills and projects more effectively.
-
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deydre/)
