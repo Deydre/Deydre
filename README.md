@@ -2,7 +2,7 @@
 
 I’m a **Fullstack Developer** eager to apply all my skills and open to collaborations and projects. I’ve just completed the **Fullstack Developer bootcamp** at [The Bridge](https://thebridge.tech/bootcamps/desarrollo-web-full-stack/madrid) and I’m excited to continue growing and contributing in both frontend and backend development. 🚀
 
-[![My portfolio](https://img.shields.io/badge/My%20personal%20web-orange?style=flat-square)](https://deydre.netlify.app/)
+[![My portfolio](https://img.shields.io/badge/My%20personal%20web-purple?style=flat-square)](https://deydre.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deydre/)
 
 ### Currently working:
