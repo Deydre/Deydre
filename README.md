@@ -7,7 +7,7 @@ I’m a **Fullstack Developer** eager to apply all my skills and open to collabo
 
 ### Currently working:
 - As a Junior Fullstack Developer intern at a startup
-- On developing my personal project [Moonthly](https://github.com/Deydre/Moonthly)
+- On developing a super secret personal project 👀✨
 
 ### Technologies I know 
 
